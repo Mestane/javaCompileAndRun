@@ -14,4 +14,4 @@ Plug 'Mestane/javaCompileAndRun'
 
 # Binding
 
-Please add your **.vimrc** file `nnoremap <leader>c :call JavacCompileAndRun()<CR>`
+add your **.vimrc** file `nnoremap <leader>c :call JavacCompileAndRun()<CR>`
