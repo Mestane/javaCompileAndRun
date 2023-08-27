@@ -14,4 +14,4 @@ Plug 'Mestane/javaCompileAndRun'
 
 # Binding
 
-Please add your **.vimrc** file `nnoremap <leader>c :call JavacCompileAndRun()<CR>`. If you want you can change that keymap.
+Please add your **.vimrc** file `nnoremap <leader>c :call JavacCompileAndRun()<CR>`
