@@ -2,8 +2,6 @@
 
 Compile and run java ****Project Folder**** in Vim
 
-
-
 # Installation
 
 with Vim-Plug
@@ -11,6 +9,8 @@ with Vim-Plug
 ```vim
 Plug 'Mestane/javaCompileAndRun'
 ```
+
+**<mark>Important:</mark>** Please create src folder in your Project folder.Here is example folder tree.
 
 # Binding
 
