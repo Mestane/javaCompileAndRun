@@ -2,7 +2,7 @@
 
 Compile and run java ****Project Folder**** in Vim
 
-[](https://github.com/Mestane/javaCompileAndRun/blob/master/assets/001.mp4)
+![](https://github.com/Mestane/javaCompileAndRun/blob/master/assets/001.mp4)
 
 # Installation
 
