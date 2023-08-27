@@ -1,6 +1,6 @@
-#### Java compile and Run Plugin in Vim
+# Java compile and Run Plugin in Vim
 
-___
+---
 
 Compile and run java **Project Folder** in Vim
 
@@ -9,8 +9,6 @@ Compile and run java **Project Folder** in Vim
 ****
 
 #### Installation
-
-
 
 with Vim-Plug
 
