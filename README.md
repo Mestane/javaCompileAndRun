@@ -8,7 +8,7 @@ https://github.com/Mestane/javaCompileAndRun/assets/67807483/ee971bbf-4714-4c7f-
 
 ### vim-plug
 
-add your ***.vimrc***
+add your **_.vimrc_**
 
 ```vim
 Plug 'Mestane/javaCompileAndRun'
@@ -16,11 +16,10 @@ Plug 'Mestane/javaCompileAndRun'
 
 ### Binding
 
-map your key `nnoremap <leader>c :call JavacCompileAndRun()<CR>` add ***.vimrc*** file
+map your key `nnoremap <leader>c :call JavacCompileAndRun()<CR>` add **_.vimrc_** file
 
 #### Important:
 
-Remember You must have a src folder in your project. Here is an example;
-
+Remember You must have a src folder in your project. Here is an example ;
 
 ![Screenshot from 2023-08-27 14-28-31](https://github.com/Mestane/javaCompileAndRun/assets/67807483/3287bb0a-9228-48c9-b5b1-7729494cc471)
